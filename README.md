@@ -7,7 +7,7 @@
 
 ## Education
 
-Information Systems Student at IFBA - Feira de Santana
+<a href="https://portal.ifba.edu.br/feira-de-santana/ensino/curso/graduacoes/bsi/index">Information Systems Student at IFBA - Feira de Santana</a>
 
 ## Tecnologies
 
